@@ -4,6 +4,9 @@
   
 </div>
 
+# Side Project
+- iOS App: [랜덤빵](https://apps.apple.com/kr/app/id1527899947)
+
 <!--
 **hyobb/hyobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
