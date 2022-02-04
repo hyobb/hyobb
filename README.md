@@ -9,4 +9,4 @@
 - Developer
 
 ### Side Project.
-- iOS App: [랜덤빵](https://apps.apple.com/kr/app/id1527899947)
+~~- iOS App: [랜덤빵](https://apps.apple.com/kr/app/id1527899947)~~
